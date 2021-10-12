@@ -9,7 +9,6 @@ TryHackMe [0xD] [GOD] <br/>
 <a href= https://github.com/mrK0pwn?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href= https://github.com/mrK0pwn?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://media.defense.gov/2019/Mar/05/2002096238/399/399/0/190503-D-IM742-3002.PNG'> </a>
 <a href= https://github.com/mrK0pwn?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://clipground.com/images/active-directory-logo-png-10.png'> </a>
- <img src="https://tryhackme-badges.s3.amazonaws.com/mrKO.png">
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://tryhackme.com/p/mrKO'> <img width = '32px' align= 'center' src="https://assets.tryhackme.com/img/favicon.png"/></a> 
